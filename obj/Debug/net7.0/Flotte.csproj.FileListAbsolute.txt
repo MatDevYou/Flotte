@@ -1,0 +1,15 @@
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.csproj.AssemblyReference.cache
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.AssemblyInfoInputs.cache
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.AssemblyInfo.cs
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.csproj.CoreCompileInputs.cache
+/Users/Mat/Projects/Flotte/Flotte/bin/Debug/net7.0/Flotte
+/Users/Mat/Projects/Flotte/Flotte/bin/Debug/net7.0/Flotte.deps.json
+/Users/Mat/Projects/Flotte/Flotte/bin/Debug/net7.0/Flotte.runtimeconfig.json
+/Users/Mat/Projects/Flotte/Flotte/bin/Debug/net7.0/Flotte.dll
+/Users/Mat/Projects/Flotte/Flotte/bin/Debug/net7.0/Flotte.pdb
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.dll
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/refint/Flotte.dll
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.pdb
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/Flotte.genruntimeconfig.cache
+/Users/Mat/Projects/Flotte/Flotte/obj/Debug/net7.0/ref/Flotte.dll
